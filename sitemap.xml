@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://127.0.0.1/cfgprevenda/</loc>
+         <lastmod>2022-06-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://127.0.0.1/pre-venda/</loc>
          <lastmod>2022-06-08</lastmod>
          <changefreq>daily</changefreq>
