@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://127.0.0.1/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://127.0.0.1/cfgprevenda/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://127.0.0.1/pre-venda/</loc>
-         <lastmod>2022-06-08</lastmod>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
